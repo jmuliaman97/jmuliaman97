@@ -1,0 +1,20 @@
+header {
+  text-align: center;
+  font-size: x-large;
+  color: greenyellow;
+}
+
+h1 {
+  font-size: large;
+}
+
+.myBio {
+  background-color: greenyellow;
+  color: black;
+}
+
+.center {
+  display: block;  
+  width: 300px;
+  margin: auto;
+}
